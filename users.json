@@ -1,0 +1,20 @@
+{
+  "admin": {
+    "password": "admin123",
+    "role": "admin",
+    "nom": "Admin",
+    "prenom": "Système"
+  },
+  "medecin1": {
+    "password": "med123",
+    "role": "medecin",
+    "nom": "Dauris",
+    "prenom": "Jean"
+  },
+  "patient1": {
+    "password": "pat123",
+    "role": "patient",
+    "nom": "Bouchra",
+    "prenom": "El Amrani"
+  }
+}
